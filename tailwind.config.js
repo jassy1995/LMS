@@ -25,8 +25,10 @@ export default {
       ss: "620px",
       sm: "768px",
       xmd: "800px",
+      xxmd: "850px",
       md: "1060px",
       lg: "1200px",
+      xlg: "1300px",
       xl: "1700px",
     },
     container: {
